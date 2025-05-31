@@ -1,0 +1,18 @@
+Cobbled Cheese License v1.0
+
+Copyright © 2025 Cobbled Cheese Studios
+
+Permission is hereby granted to any person obtaining a copy of this software and associated files (the “Software”), to use, copy, modify, merge, publish, and distribute the Software, with or without modification, under the following conditions:
+
+1. Attribution Requirements
+    - Attribution to Cobbled Cheese Studios is not required for use or distribution of unmodified Software.
+    - Attribution is required if you modify the main codebase of the Software. This does not include changes to configuration files, settings files, or metadata-only files.
+2. Restrictions
+    - You must not misrepresent the origin of the Software after modifying the main code.
+    - You may not use the name "Cobbled Cheese Studios" to endorse or promote products derived from this Software without prior written permission.
+3. Disclaimer
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+For questions or permission requests, contact Cobbled Cheese Studios.
