@@ -1,14 +1,14 @@
-{
+[
   {
-    "name":"Test 1",
-    "latestver":1,
-    "repo":"https://example.com/",
-    "order":0
+    "name": "Test 1",
+    "latestver": 1,
+    "repo": "https://example.com/",
+    "order": 0
   },
   {
-    "name":"Test 2",
-    "latestver":1,
-    "repo":"https://example.com/",
-    "order":1
+    "name": "Test 2",
+    "latestver": 1,
+    "repo": "https://example.com/",
+    "order": 1
   }
-}
+]
